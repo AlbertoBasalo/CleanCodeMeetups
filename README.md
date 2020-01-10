@@ -1,2 +1,0 @@
-# CleanCodeMeetups
-Created with CodeSandbox

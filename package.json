@@ -1,0 +1,21 @@
+{
+  "name": "cleancodemeetups",
+  "version": "1.0.0",
+  "description": "A script to verify your code",
+  "homepage": "https://github.com/BitAdemy/CleanCode",
+  "author": {
+    "name": "Alberto Basalo",
+    "email": "learn@bitademy.com",
+    "url": "https://bitademy.com"
+  },
+  "scripts": {
+    "start": "",
+    "build": "parcel build index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
